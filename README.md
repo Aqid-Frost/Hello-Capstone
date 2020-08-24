@@ -1,2 +1,2 @@
 # git
-Learning
+Applied Data Science Capstone project
